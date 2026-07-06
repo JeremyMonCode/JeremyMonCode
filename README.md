@@ -2,7 +2,7 @@
 
 **Technicien Informatique Indépendant** et passionné de tech, je combine une solide expérience de terrain en micro-informatique avec l'administration quotidienne d'un **Homelab** complet. Issu d'un parcours de musicien et d'enseignant professionnel, j'allie rigueur technique, adaptabilité et un excellent sens de la relation client.
 
-Actuellement orienté vers l'obtention de mon titre **TSSR (Technicien Supérieur Systèmes et Réseaux)**, j'utilise GitHub pour documenter mes architectures, mes scripts d'automatisation et mes labs réseaux.
+Actuellement orienté vers une formation de **TSSR (Technicien Supérieur Systèmes et Réseaux)**, j'utilise GitHub pour documenter mes architectures, mes scripts d'automatisation et mes labs réseaux.
 
 ---
 
@@ -19,7 +19,7 @@ Actuellement orienté vers l'obtention de mon titre **TSSR (Technicien Supérieu
 *   **Supervision & Optimisation :** Audits de sécurité de parcs, optimisation réseau, sauvegardes.
 
 ### ⚙️ Hardware & Maintenance
-*   Diagnostic et réparation matérielle multi-support (PC fixes/portables, smartphones, tablettes, imprimantes pro).
+*   Diagnostic et réparation matérielle multi-support (PC fixes/portables, smartphones, tablettes).
 *   Remplacement de composants critiques (cartes mères, connecteurs de charge DC Jack, écrans, batteries).
 *   Clonage de disques et récupération de données (TestDisk, Recuva).
 
